@@ -28,19 +28,13 @@ The **Accident Analysis Dashboard** aims to assist policymakers, analysts, and t
 
 🧰 Tools & Technologies Used <br>
 Tableau Desktop
-
 Heat Maps, Line Charts, Pie Charts, Bar Charts
-
 Geographic Visualization
-
 Filters & Parameters for interactivity
 
 
 📈 Use Cases <br>
 Government Road Safety Departments
-
 Traffic Regulation Policy Planning
-
 Public Health & Safety Reports
-
 Academic Research in Urban Safety
